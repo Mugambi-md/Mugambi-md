@@ -1,8 +1,13 @@
--Hi, I’m @Mugambi-md
--I’m interested in python programming 
--I’m currently learning Python programming language 
--I’m looking to collaborate on code writing 
--you can reach me through email mugambi4sm@gma
+-Hi, I’m @Mugambi-md.
+
+-I’m interested in python programming.
+
+-I’m currently learning Python programming language.
+
+-I’m looking to collaborate on code writing.
+
+-you can reach me through email mugambi4sm@gmail.com.
+
 -Fun fact: do something to master it.
 
 <!---
